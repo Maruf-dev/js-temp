@@ -5,6 +5,5 @@ function print (msg, count){
     for (let i = 0; i < count; i++) {
         document.write('<p>' + msg + '<hr>')
     }
-
 }
 print();
